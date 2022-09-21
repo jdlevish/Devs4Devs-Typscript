@@ -1,0 +1,27 @@
+{
+  "name": "devs4devs-typscript",
+  "version": "1.0.0",
+  "description": "a collection of exercises to demonstrate the fundamentals of TypeScipt",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdlevish/Devs4Devs-Typscript.git"
+  },
+  "keywords": [
+    "Typescript",
+    "Tutorial"
+  ],
+  "author": "Joshua Levish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdlevish/Devs4Devs-Typscript/issues"
+  },
+  "homepage": "https://github.com/jdlevish/Devs4Devs-Typscript#readme",
+  "dependencies": {
+    "jest": "^29.0.3",
+    "typescript": "^4.8.3"
+  }
+}
